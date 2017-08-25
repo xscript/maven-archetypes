@@ -83,7 +83,7 @@
                             </outputDirectory>
                             <resources>
                                 <resource>
-                                    <directory>${project.basedir}/src</directory>
+                                    <directory>${project.basedir}</directory>
                                     <includes>
                                         <include>host.json</include>
                                         <include>local.settings.json</include>
